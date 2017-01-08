@@ -6,9 +6,7 @@ Emanuelle Crespi - Class of 2016
 University of Maryland College Park
 Department of Electrical and Computer Engineering 
 James A. Clark's School of Engineering 
---------------------------------------------------------------------------------------------------------------
-Emanuelle Crespi - Class of 2016
---------------------------------------------------------------------------------------------------------------
+
 The following directories include both .c and .cu files that may be executed on NVIDIA's Embedded Jetson TK1 board running CUDA version 6.5. The executables 'genFile50MG' and 'genFile100MG' may be used to generate file.txt at a size of 50-100MG.
 
 - vectorAdd
